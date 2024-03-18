@@ -14,4 +14,4 @@ Projeto construído do evento Next Level 🚀
 
 ## Contato 📧
 
-- gabysendeski@hotmail.com
+- gaby.sendeski@hotmail.com
